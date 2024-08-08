@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ai-image-generator/static/css/main.93bc706a.css",
+    "main.js": "/ai-image-generator/static/js/main.3e10adaa.js",
+    "index.html": "/ai-image-generator/index.html",
+    "main.93bc706a.css.map": "/ai-image-generator/static/css/main.93bc706a.css.map",
+    "main.3e10adaa.js.map": "/ai-image-generator/static/js/main.3e10adaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93bc706a.css",
+    "static/js/main.3e10adaa.js"
+  ]
+}
